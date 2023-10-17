@@ -1,4 +1,5 @@
 void main() {
+  // ignore: unused_local_variable
   late String str; // Создание переменной, значение которой будет объявленно позже
   late final double PI; // Создание константы, значение которой будет объявлено позже
 
